@@ -1,0 +1,7 @@
+{
+  "name": "programacaoTv",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
